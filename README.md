@@ -1,8 +1,10 @@
 # House Prices - Advanced Regression Techniques (Modularized)
 
 Dự án đã được tách thành các module trong thư mục `src/` để tái sử dụng cho tiền xử lý, EDA, tạo đặc trưng, huấn luyện, đánh giá, và triển khai bằng Gradio
-Truy cập nhanh vào website đã được deploy lên
-[https://huggingface.co/spaces/binhnguyen19122004/house-price-prediction]
+
+- Truy cập nhanh vào website đã được deploy lên :
+  [https://huggingface.co/spaces/binhnguyen19122004/house-price-prediction]
+- Link file Colab : [https://colab.research.google.com/drive/1aZzevrwy_IidjwYTcrDn8CR-mpGyjoFx#scrollTo=BrNXZIaoSGye]
 
 ## Yêu cầu
 
